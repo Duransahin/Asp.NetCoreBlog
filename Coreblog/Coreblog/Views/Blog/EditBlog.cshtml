@@ -1,0 +1,29 @@
+﻿@model EntityLayer.Concrete.Blog
+@{
+    ViewData["Title"] = "EditBlog";
+    Layout = "~/Views/Shared/WriterLayout.cshtml";
+}
+
+<h1>EditBlog</h1>
+
+@using (Html.BeginForm("EditBlog", "Blog", FormMethod.Post))
+{
+    @Html.HiddenFor(x => x.BlogID)
+    @Html.Label("Title")
+    @Html.TextBoxFor(x => x.BlogTitle, new { @class = "form-control" })
+    <br />
+    @Html.Label("Thumbnail Image")
+    @Html.TextBoxFor(x => x.BlogTumbnailImage, new { @class = "form-control" })
+    <br />
+    @Html.Label("Image")
+    @Html.TextBoxFor(x => x.BlogImage, new { @class = "form-control" })
+    <br />
+    @Html.Label("Category")
+    @Html.DropDownListFor(x => x.CategoryID, (List<SelectListItem>)ViewBag.cv, new { @class = "form-control" })
+    <br />
+    @Html.Label("Blog Content")
+    @Html.TextAreaFor(x => x.BogContent, 15, 3, new { @class = "form-control" })
+    <br />
+<button class="btn btn-success">Güncelle</button>
+}
+

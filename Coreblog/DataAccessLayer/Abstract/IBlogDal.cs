@@ -1,0 +1,15 @@
+﻿using EntityLayer.Concrete;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DataAccessLayer.Abstract
+{
+   public interface IBlogDal:IGenericDal<Blog>
+    {
+        List<Blog> GetListCategory();//Eager Loading yapıldı. Eager Loading 
+        List<Blog> GetListCategoryByWriter(int id);//Eager Loading yapıldı. Eager Loading  
+    }
+}

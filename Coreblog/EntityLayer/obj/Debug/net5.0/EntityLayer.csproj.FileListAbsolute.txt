@@ -1,0 +1,12 @@
+C:\Users\duran\Desktop\Projeler\Coreblog\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\duran\Desktop\Projeler\Coreblog\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\duran\Desktop\Projeler\Coreblog\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\duran\Desktop\Projeler\Coreblog\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\duran\Desktop\Projeler\Coreblog\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\duran\Desktop\Projeler\Coreblog\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duran\Desktop\Projeler\Coreblog\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\duran\Desktop\Projeler\Coreblog\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\duran\Desktop\Projeler\Coreblog\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\duran\Desktop\Projeler\Coreblog\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\duran\Desktop\Projeler\Coreblog\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\duran\Desktop\Projeler\Coreblog\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
